@@ -1,0 +1,11 @@
+streamlit
+openai
+python-dotenv
+pandas
+selenium
+webdriver-manager
+requests
+beautifulsoup4
+undetected-chromedriver
+playwright
+nest_asyncio
